@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">OopsProject</string>
+    <string name="title_activity_signup">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_discover">Map</string>
+    <string-array name="names">
+        <item>None</item>
+        <item>Small Rs 60</item>
+        <item>Medium Rs 120</item>
+        <item>Large Rs 180</item>
+    </string-array>
+    <string-array name="names2">
+        <item>None</item>
+        <item>Small Rs 10</item>
+        <item>Medium Rs 20</item>
+        <item>Large Rs 30</item>
+    </string-array>
+    <string-array name="names3">
+        <item>None</item>
+        <item>Small Rs 150</item>
+        <item>Medium Rs 300</item>
+        <item>Large Rs 450</item>
+    </string-array>
+</resources>
